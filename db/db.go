@@ -45,3 +45,8 @@ func (o *PQ) conn_sqlx() *sqlx.DB {
 	}
 	return db
 }
+
+func Connect() *sqlx.DB {
+	pg := PQ{}
+	return pg.conn_sqlx()
+}
