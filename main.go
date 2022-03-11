@@ -1,7 +1,7 @@
 package stock_write_common
 
 import (
-	"github.com/cheolgyu/stock-write-common/src/logging"
+	"github.com/cheolgyu/sbm-base/src/logging"
 )
 
 func BBBB() {

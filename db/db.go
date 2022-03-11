@@ -3,9 +3,9 @@ package db
 import (
 	"database/sql"
 
-	"github.com/cheolgyu/stock-write-common/c"
-	"github.com/cheolgyu/stock-write-common/env"
-	"github.com/cheolgyu/stock-write-common/logging"
+	"github.com/cheolgyu/sbm-base/c"
+	"github.com/cheolgyu/sbm-base/env"
+	"github.com/cheolgyu/sbm-base/logging"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
 )

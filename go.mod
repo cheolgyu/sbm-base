@@ -1,4 +1,4 @@
-module github.com/cheolgyu/stock-write-common
+module github.com/cheolgyu/sbm-base
 
 go 1.16
 

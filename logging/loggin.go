@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cheolgyu/stock-write-common/c"
+	"github.com/cheolgyu/sbm-base/c"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/natefinch/lumberjack.v2"
 )

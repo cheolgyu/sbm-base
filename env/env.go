@@ -1,7 +1,7 @@
 package env
 
 import (
-	"github.com/cheolgyu/stock-write-common/logging"
+	"github.com/cheolgyu/sbm-base/logging"
 	"github.com/joho/godotenv"
 )
 
