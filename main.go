@@ -1,15 +1,23 @@
-package stock_write_common
+package main
+
+// import (
+// 	"github.com/cheolgyu/base/src/logging"
+// )
+
+// func BBBB() {
+// 	defer logging.ElapsedTime()()
+
+// 	//log.Run()
+
+// }
+// func AAAA() {
+// 	logging.Log.Debug("aaaaaaa")
+// }
 
 import (
-	"github.com/cheolgyu/sbm-base/src/logging"
+	"github.com/cheolgyu/base/src/logging"
 )
 
-func BBBB() {
-	defer logging.ElapsedTime()()
-
-	//log.Run()
-
-}
 func AAAA() {
 	logging.Log.Debug("aaaaaaa")
 }

@@ -1,7 +1,7 @@
 package env
 
 import (
-	"github.com/cheolgyu/sbm-base/logging"
+	"github.com/cheolgyu/base/logging"
 	"github.com/joho/godotenv"
 )
 

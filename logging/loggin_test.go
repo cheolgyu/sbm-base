@@ -3,7 +3,7 @@ package logging_test
 import (
 	"testing"
 
-	"github.com/cheolgyu/sbm-base/logging"
+	"github.com/cheolgyu/base/logging"
 )
 
 func Test(t *testing.T) {

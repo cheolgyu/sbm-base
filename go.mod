@@ -1,4 +1,4 @@
-module github.com/cheolgyu/sbm-base
+module github.com/cheolgyu/base
 
 go 1.16
 
