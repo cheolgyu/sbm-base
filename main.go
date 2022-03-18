@@ -1,7 +1,7 @@
 package main
 
 // import (
-// 	"github.com/cheolgyu/base/src/logging"
+// 	"github.com/cheolgyu/base/logging"
 // )
 
 // func BBBB() {
@@ -15,7 +15,7 @@ package main
 // }
 
 import (
-	"github.com/cheolgyu/base/src/logging"
+	"github.com/cheolgyu/base/logging"
 )
 
 func AAAA() {
